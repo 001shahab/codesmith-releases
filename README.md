@@ -10,7 +10,6 @@ Source code is private. This repository only publishes the compiled apps:
 | Platform | File |
 |---|---|
 | macOS (Apple Silicon) | `Codesmith_*_aarch64.dmg` |
-| macOS (Intel) | `Codesmith_*_x64.dmg` |
 | Windows | `Codesmith_*-setup.exe` |
 | Linux (Debian/Ubuntu) | `Codesmith_*_amd64.deb` |
 
